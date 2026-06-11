@@ -5,17 +5,17 @@
   marketing and web content roles
 
   ##key features &SEO practices implemented
-  #Utilized structured tags including <main>,<section> and <article>
+  **Utilized structured tags including <main>,<section> and <article>
   which ensure clean content isolation for search engine web crawlers.
-  #Heading Hierarchy:implented strict heading flow ('<h1>'through'<h3>')
+  **Heading Hierarchy:implented strict heading flow ('<h1>'through'<h3>')
   to map content priorities and improve indexing readability
-  #accessible navigation:Designed clean,text based navigation menus anchor 
+  **accessible navigation:Designed clean,text based navigation menus anchor 
   linked to page sections
   #contact optimization:Used the semantic <address> cntainer with click 
   to call("tel:") and click to email protocals 
-
+#practical skills demonstrated
   This project demonstrates readiness for tasks involving
-  -content management systems(CMS) data uploading
-  -on page SEO auditing and meta-tag updates
-  -digital marketing data entry and web formatting
+  *content management systems(CMS) data uploading
+  *on page SEO auditing and meta-tag updates
+  *digital marketing data entry and web formatting
   

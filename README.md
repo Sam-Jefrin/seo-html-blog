@@ -11,7 +11,7 @@
   to map content priorities and improve indexing readability
   **accessible navigation:Designed clean,text based navigation menus anchor 
   linked to page sections
-  #contact optimization:Used the semantic <address> cntainer with click 
+  *contact optimization:Used the semantic <address> cntainer with click 
   to call("tel:") and click to email protocals 
 #practical skills demonstrated
   This project demonstrates readiness for tasks involving
